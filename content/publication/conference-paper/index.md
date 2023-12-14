@@ -61,6 +61,7 @@ image:
 
 projects:
    - example
+   
 slides: example
 ---
 
