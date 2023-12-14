@@ -6,11 +6,10 @@ title: 'Anomaly Detection in Continuous-Time Temporal Provenance Graphs'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+  - Giulio Lovisotto
+  - Michele Russo
+  - Alessio Gravina
+  - Claas Grohnfeldt
 
 date: '2023-10-21T00:00:00Z'
 doi: ''
@@ -25,7 +24,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: *Temporal Graph Learning Workshop @ NeurIPS 2023*
-publication_short: In *TGL NeurIPS 2023*
+publication_short: *TGL NeurIPS 2023*
 
 abstract: Recent advances in Graph Neural Networks (GNNs) have matured the field of learning on graphs, making GNNs essential for prediction tasks in complex, interconnected, and evolving systems. In this paper, we focus on self-supervised, inductive learning for continuous-time dynamic graphs. Without compromising generality, we propose an approach to learn representations and mine anomalies in provenance graphs, which are a form of large-scale, heterogeneous, attributed, and continuous-time dynamic graphs used in the cybersecurity domain, syntactically resembling complex temporal knowledge graphs. We modify the Temporal Graph Network (TGN) framework to heterogeneous input data and directed edges, refining it specifically for inductive learning on provenance graphs. We present and release two pioneering large-scale, continuous-time temporal, heterogeneous, attributed benchmark graph datasets. The datasets incorporate expert-labeled anomalies, promoting subsequent research on representation learning and anomaly detection on intricate real-world networks. Comprehensive experimental analyses of modules, datasets, and baselines underscore the effectiveness of TGN-based inductive learning, affirming its practical utility in identifying semantically significant anomalies in real-world systems.
 
