@@ -38,7 +38,7 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
-
+                
   - block: portfolio
     id: projects
     content:
@@ -66,7 +66,7 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-       
+ 
   - block: collection
     id: publications
     content:

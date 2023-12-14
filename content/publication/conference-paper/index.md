@@ -6,16 +6,17 @@ title: 'Anomaly Detection in Continuous-Time Temporal Provenance Graphs'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Giulio Lovisotto
-  - Michele Russo
-  - Alessio Gravina
-  - Claas Grohnfeldt
 
-date: '2023-10-21T00:00:00Z'
+# Author notes (optional)
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
+
+date: '2013-10-21T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-10-21T00:00:00Z'
+publishDate: '2013-10-21T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -23,8 +24,8 @@ publishDate: '2023-10-21T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: *Temporal Graph Learning Workshop @ NeurIPS 2023*
-publication_short: *TGL NeurIPS 2023*
+publication: In *Temporal Graph Learning Workshop @ NeurIPS 2023*
+publication_short: In *TGL NeurIPS 2023*
 
 abstract: Recent advances in Graph Neural Networks (GNNs) have matured the field of learning on graphs, making GNNs essential for prediction tasks in complex, interconnected, and evolving systems. In this paper, we focus on self-supervised, inductive learning for continuous-time dynamic graphs. Without compromising generality, we propose an approach to learn representations and mine anomalies in provenance graphs, which are a form of large-scale, heterogeneous, attributed, and continuous-time dynamic graphs used in the cybersecurity domain, syntactically resembling complex temporal knowledge graphs. We modify the Temporal Graph Network (TGN) framework to heterogeneous input data and directed edges, refining it specifically for inductive learning on provenance graphs. We present and release two pioneering large-scale, continuous-time temporal, heterogeneous, attributed benchmark graph datasets. The datasets incorporate expert-labeled anomalies, promoting subsequent research on representation learning and anomaly detection on intricate real-world networks. Comprehensive experimental analyses of modules, datasets, and baselines underscore the effectiveness of TGN-based inductive learning, affirming its practical utility in identifying semantically significant anomalies in real-world systems.
 
@@ -59,9 +60,19 @@ image:
   focal_point: ''
   preview_only: false
 
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
 projects:
   - example
-   
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
 slides: example
 ---
 
@@ -72,6 +83,5 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 {{% callout note %}}
 Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
-
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://wowchemy.com/docs/content/writing-markdown-latex/).
