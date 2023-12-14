@@ -27,9 +27,6 @@ bio: My research interests include causality and graph structured data.
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Start-ups
-  - Sports, Politics, Travelling
-  - Movies
   
 # Education to show in About widget
 education:
@@ -37,9 +34,9 @@ education:
     - course: MSc in Machine Learning
       institution: KTH Royal Institute of Technology
       year: 2023
-    - course: BSc in General Engineering - Cyber Systems
+    - course: BSc in General Engineering- Cyber Systems
       institution: DTU
-      year: 2021
+      year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -51,7 +48,7 @@ social:
     link: "mailto:j.reha@uva.nl"
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?hl=en&user=3igoR2MAAAAJ
+    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/JakubReha
@@ -72,7 +69,5 @@ email: j.reha@uva.nl
 highlight_name: true
 ---
 
-I am a first year PhD student at the [Amsterdam Machine Learning Lab](http://amlab.science.uva.nl) (AMLab) supervised by [Sara Magliacane](https://saramagliacane.github.io/), [Ana Mićković](https://www.uva.nl/en/profile/m/i/a.mickovic/a.mickovic.html) and [Max Welling](https://staff.fnwi.uva.nl/m.welling/). I strongly believe that causality can make machine learning more robust and more explainable. My research interests intersect causal inference, reinforcement learning, domain adaptation, time series modelling and graph structured data modelling. I am working on the "Robust fraud detection through causality-inspired ML" project as part of the AI4FinTech initiative. 
-
-Feel free to contact me for possible collaborations!
+I am a PhD student at the [Amsterdam Machine Learning Lab](http://amlab.science.uva.nl) (AMLab) supervised by [Sara Magliacane](https://saramagliacane.github.io/), [Ana Mićković](https://www.uva.nl/en/profile/m/i/a.mickovic/a.mickovic.html) and [Max Welling](https://staff.fnwi.uva.nl/m.welling/). I am mainly interested in methods that can discover and utilize causal information.
 {style="text-align: justify;"}
