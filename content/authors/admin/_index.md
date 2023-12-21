@@ -28,8 +28,8 @@ bio: My research interests include causality and graph structured data.
 interests:
   - Artificial Intelligence
   - Start-ups
+  - Trading
   - Sports, Politics, Travelling
-  - Movies
   
 # Education to show in About widget
 education:
